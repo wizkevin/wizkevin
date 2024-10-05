@@ -1,9 +1,10 @@
 # A propos de moi 👋
 
 <strong>Je suis Kevin Doukpeni, Data Engineer - Data Analyst.<br>
-Fort d'une connaissance approfondie des outils et langages de programmation tels que Python, SQL❤️‍<br>
-je m'intéresse aux technologies de Big Data et aux plateformes de Cloud Computing<br>
-J'ai un background de développeur Web/Mobile
+Ayant une maîtrise approfondie des outils et langages de programmation tels que Python et SQL,❤️‍<br>
+je suis passionné par les technologies Big Data et les plateformes de Cloud Computing<br>
+Fort d'une expérience en développement Web et Mobile, je cherche à élargir mes compétences dans ces domaines
+pour relever de nouveaux défis technologiques.
 
 - 🔭 Je travaille actuellement sur la conception et développement de scripts Python pour <br>
 automatiser la récupération, le traitement et l'analyse des données provenant d'API
@@ -19,7 +20,18 @@ automatiser la récupération, le traitement et l'analyse des données provenant
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![VueJS](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-4e56a6?style=for-the-badge&logo=livewire&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)![React native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)[GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 <br><br>
-<marquee behavior="scroll" direction="left">Thanks for visiting my profile, See you Next Time !!!.</marquee>
+<div style="overflow: hidden; white-space: nowrap;">
+  <span style="display: inline-block; padding-left: 100%; animation: marquee 10s linear infinite;">
+    Thanks for visiting my profile, See you Next Time !!!
+  </span>
+</div>
+
+<style>
+@keyframes marquee {
+  0% { transform: translateX(100%); }
+  100% { transform: translateX(-100%); }
+}
+</style>
 
 <!--
 **wizkevin/wizkevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
