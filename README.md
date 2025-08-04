@@ -1,9 +1,11 @@
 # A propos de moi 👋
 
-<strong>Je suis Kevin Doukpeni, Data Engineer - Data Analyst.<br>
+<strong>Je suis Kevin Doukpeni</strong> , Data Engineer - Data Analyst.<br>
+
 Passionné par la donnée et convaincu de son rôle stratégique dans la prise de décision,
-je suis diplômé en Data Engineering et fort d’une expérience significative en tant que Data Analyst chez Verisure France
+je suis diplômé en Data Engineering et fort d’une expérience significative en tant que Data Analyst chez Verisure France.<br>
 J’ai développé une solide expertise en analyse de données, data visualisation et automatisation de données. <br>
+
 Grâce à ma maîtrise de SQL, Python ❤️‍, l'environnement Cloud Azure et des outils comme Power BI, Tableau, DBT je suis capable de transformer des données brutes en leviers concrets d’aide à la décision.
 Lors de mes précédentes expériences, j’ai eu l’occasion de travailler en étroite collaboration avec des équipes métier (marketing, finance, opérations),
 afin de comprendre leurs enjeux et leur proposer des solutions sur mesure, basées sur des indicateurs fiables et pertinents.<br>
