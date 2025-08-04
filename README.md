@@ -1,10 +1,14 @@
 # A propos de moi 👋
 
 <strong>Je suis Kevin Doukpeni, Data Engineer - Data Analyst.<br>
-Ayant une maîtrise approfondie des outils et langages de programmation tels que Python et SQL,❤️‍<br>
-je suis passionné par les technologies Big Data et les plateformes de Cloud Computing<br>
-Fort d'une expérience en développement Web et Mobile, je cherche à élargir mes compétences dans ces domaines
-pour relever de nouveaux défis technologiques.
+Passionné par la donnée et convaincu de son rôle stratégique dans la prise de décision,
+je suis diplômé en Data Engineering et fort d’une expérience significative en tant que Data Analyst chez Verisure France
+J’ai développé une solide expertise en analyse de données, data visualisation et automatisation de données. <br>
+Grâce à ma maîtrise de SQL, Python ❤️‍, l'environnement Cloud Azure et des outils comme Power BI, Tableau, DBT je suis capable de transformer des données brutes en leviers concrets d’aide à la décision.
+Lors de mes précédentes expériences, j’ai eu l’occasion de travailler en étroite collaboration avec des équipes métier (marketing, finance, opérations),
+afin de comprendre leurs enjeux et leur proposer des solutions sur mesure, basées sur des indicateurs fiables et pertinents.<br>
+
+Fort d'une expérience en développement Web et Mobile, je suis également très à l'aise avec plusieurs langages de programmation et frameworks.
 
 - 🔭 Je travaille actuellement sur la conception et développement de scripts Python pour <br>
 automatiser la récupération, le traitement et l'analyse des données provenant d'API
